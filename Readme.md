@@ -1,0 +1,2 @@
+Olá, a ideia desse "projeto" é compartilhar com a comunidade alguns códigos criados para a disciplina MAC0115 - Introdução à Computação para Ciências Exatas e Tecnologia, onde estamos nos aprofundando na linguagem python.
+Vou compartilhar algumas atividades feitas e as minhas resoluções e, caso seja da sua vontade, pode compartilhar comigo seu raciocínio de resolução dos exercícios.
